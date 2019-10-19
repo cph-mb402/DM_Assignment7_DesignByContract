@@ -1,0 +1,11 @@
+C:\Users\Hazem\source\repos\DesignByContractSharp\bin\Debug\netcoreapp3.0\DesignByContractSharp.exe
+C:\Users\Hazem\source\repos\DesignByContractSharp\bin\Debug\netcoreapp3.0\DesignByContractSharp.deps.json
+C:\Users\Hazem\source\repos\DesignByContractSharp\bin\Debug\netcoreapp3.0\DesignByContractSharp.runtimeconfig.json
+C:\Users\Hazem\source\repos\DesignByContractSharp\bin\Debug\netcoreapp3.0\DesignByContractSharp.runtimeconfig.dev.json
+C:\Users\Hazem\source\repos\DesignByContractSharp\bin\Debug\netcoreapp3.0\DesignByContractSharp.dll
+C:\Users\Hazem\source\repos\DesignByContractSharp\bin\Debug\netcoreapp3.0\DesignByContractSharp.pdb
+C:\Users\Hazem\source\repos\DesignByContractSharp\obj\Debug\netcoreapp3.0\DesignByContractSharp.csprojAssemblyReference.cache
+C:\Users\Hazem\source\repos\DesignByContractSharp\obj\Debug\netcoreapp3.0\DesignByContractSharp.AssemblyInfoInputs.cache
+C:\Users\Hazem\source\repos\DesignByContractSharp\obj\Debug\netcoreapp3.0\DesignByContractSharp.AssemblyInfo.cs
+C:\Users\Hazem\source\repos\DesignByContractSharp\obj\Debug\netcoreapp3.0\DesignByContractSharp.dll
+C:\Users\Hazem\source\repos\DesignByContractSharp\obj\Debug\netcoreapp3.0\DesignByContractSharp.pdb

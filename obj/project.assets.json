@@ -1,0 +1,62 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.0": []
+  },
+  "packageFolders": {
+    "C:\\Users\\burac\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Projects\\School\\TopUpSem2\\Discrete Math\\Discrete-Mathematics-Assignments\\DesignByContract(ass7)\\DesignByContractSharp.csproj",
+      "projectName": "DesignByContractSharp",
+      "projectPath": "C:\\Projects\\School\\TopUpSem2\\Discrete Math\\Discrete-Mathematics-Assignments\\DesignByContract(ass7)\\DesignByContractSharp.csproj",
+      "packagesPath": "C:\\Users\\burac\\.nuget\\packages\\",
+      "outputPath": "C:\\Projects\\School\\TopUpSem2\\Discrete Math\\Discrete-Mathematics-Assignments\\DesignByContract(ass7)\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\burac\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Projects\\CluedIn\\ExternalLibraries-SlackAPI\\SlackAPI\\bin\\Debug": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://dev.azure.com/CluedIn-io/CluedIn/_packaging?_a=feed&feed=develop": {},
+        "https://pkgs.dev.azure.com/CluedIn-io/_packaging/CluedIn/nuget/v3/index.json": {},
+        "https://pkgs.dev.azure.com/CluedIn-io/_packaging/develop/nuget/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.0": {
+        "imports": [
+          "net461"
+        ],
+        "assetTargetFallback": true,
+        "warn": true
+      }
+    }
+  }
+}
